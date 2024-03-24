@@ -30,7 +30,7 @@ This repository contains code for developing, training, testing, and implementin
    - The trained DNN model and the parameters used for standardization are saved for future use.
 
 8. **Implementation**:
-   - The trained model and parameters are loaded for implementation in a trading environment, either Oanda or FXCM.
+   - The trained model and parameters are loaded for implementation in a trading environment.
    - A class (`DNNTrader`) is defined to handle the trading strategy, with platform-specific methods for interacting with the API.
    - The `DNNTrader` class implements methods for retrieving historical data, defining trading strategies, executing trades, and reporting trade results.
 
