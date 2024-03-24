@@ -1,6 +1,6 @@
 ## FXCM Deep Learning-Based Trading Strategy
 
-This repository contains code for developing, training, testing, and implementing a deep learning-based trading strategy using historical price data and real-time streaming data from financial markets. The strategy aims to predict price movements and generate buy/sell signals based on these predictions, with the ultimate goal of achieving profitable trading outcomes.
+This repository contains code for developing, training, testing, and implementing a deep learning-based trading strategy using historical price data and real-time streaming data from FXCM markets. The strategy aims to predict price movements and generate buy/sell signals based on these predictions, with the ultimate goal of achieving profitable trading outcomes.
 
 ### Workflow Overview
 
@@ -62,14 +62,14 @@ The `DNNModel.py` module provides a flexible framework for creating and configur
 - Implement the strategy using the `DNNTrader` class 
 
 
-## Guide to Running FXCM_Deep_Learning.ipynb
+# Guide to Running FXCM_Deep_Learning.ipynb
 
 ### Introduction
 FXCM_Deep_Learning.ipynb is a Jupyter Notebook file that contains code for developing, training, testing, and implementing a deep learning-based trading strategy using historical price data and real-time streaming data from financial markets. This guide will walk you through the steps required to run the code successfully.
 
 ### Prerequisites
 Before running the code, ensure that you have the following prerequisites installed:
-1. Python (preferably version 3.x)
+1. Python (preferably version 3.8)
 2. Jupyter Notebook
 3. Necessary Python libraries (pandas, numpy, matplotlib, keras, fxcmpy)
 
