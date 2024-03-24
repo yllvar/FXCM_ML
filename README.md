@@ -124,3 +124,4 @@ Before running the code, ensure that you have the following prerequisites instal
 - Running FXCM_Deep_Learning.ipynb requires a basic understanding of Python, Jupyter Notebook, and financial trading concepts. By following this guide and carefully executing each code cell, you can develop, train, test, and implement a deep learning-based trading strategy effectively. Remember to exercise caution and conduct thorough research before engaging in live trading activities.
 - This code is provided for educational and informational purposes only. It does not constitute financial advice or trading recommendations.
 - Trading in financial markets involves risk, and past performance is not indicative of future results. Always conduct thorough research and consider seeking advice from a qualified financial advisor before making any investment decisions.# FXCM_ML
+# FXCM_ML
